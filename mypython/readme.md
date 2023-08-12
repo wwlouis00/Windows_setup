@@ -1,7 +1,4 @@
 # Pyenv 介紹與實作
-
-![Pyenv Logo](https://github.com/pyenv/pyenv/raw/master/other/logo.png)
-
 Pyenv 是一個用於管理 Python 版本的工具，讓你可以在同一台機器上安裝、切換和管理不同版本的 Python 解釋器。這使得開發人員可以輕鬆地在不同項目中使用不同版本的 Python，同時避免版本衝突和依賴問題。
 
 ## 主要特點
