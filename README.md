@@ -1,3 +1,8 @@
 # Windows_setup
 
-## oh-my-posh powershell
+## Powershell
+- oh-my-posh
+- neovim
+- git
+- pyenv
+- history
