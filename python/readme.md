@@ -27,7 +27,7 @@ Pyenv 是一個用於管理 Python 版本的工具，讓你可以在同一台機
 
 1. 使用 Windows 的 Pyenv 變種：在 Windows 上，你可以使用 [pyenv-win](https://github.com/pyenv-win/pyenv-win) 來實現類似的功能。
 
-2. 安裝和使用步驟請參考 [pyenv-win 的文件](https://github.com/pyenv-win/pyenv-win#installation)。
+2. 安裝和使用步驟請參考 [pyenv-win 的文件](https://github.com/pyenv-win/pyenv-win/blob/master/docs/installation.md#powershell)。
 
 ## 應用場景
 
@@ -35,6 +35,4 @@ Pyenv 適用於多種場景，包括：
 
 - 多版本測試：開發人員可以在不同的 Python 版本中測試代碼，確保其相容性。
 - 依賴管理：使用 Pyenv 可以避免項目之間的依賴衝突，保持項目的獨立性。
-- 環境隔離：結合虛擬環境，可以隔離項目的依賴關係，避免干擾。
-
-無論你是在 Linux 還是 Windows 上進行開發，Pyenv 都是一個方便且實用的工具，特別適合在 Python 開發中提供更好的版本管理和環境隔離。
+- 環境隔離：結合虛擬環境，可以隔離項目的依賴關係，避免干擾
